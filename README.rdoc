@@ -1,2 +1,2 @@
 === Travis
-[![Build Status](https://travis-ci.org/indare/enpit-test.svg?branch=master)](https://travis-ci.org/indare/enpit-test)
+{<img src="https://travis-ci.org/indare/enpit-test.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/indare/enpit-test]

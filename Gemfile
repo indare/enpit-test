@@ -1,5 +1,3 @@
-ruby '2.0.0'
-
 # Bower Manager => https://rails-assets.org/
 source 'https://rubygems.org'
 source 'https://rails-assets.org'

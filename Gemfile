@@ -16,6 +16,8 @@ gem 'rails-assets-leaflet'
 
 # turbolinks support
 gem 'jquery-turbolinks'
+gem 'turbolinks'
+gem 'jquery-rails'
 
 # Source Map
 gem 'coffee-rails-source-maps'

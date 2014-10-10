@@ -28,7 +28,7 @@ development:
 test:
   <<: *default
   host: ""
-  username: ""
+  username: travis
   password: ""
   socket: ""
   database: enpit-test_test

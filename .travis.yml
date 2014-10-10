@@ -2,7 +2,7 @@ language: ruby
 rvm:
   - 2.0.0-p481
 before_script:
-  - mysql -e 'create database enpit-test_test;'
+  - mysql -e 'create database `enpit-test_test`;'
 deploy:
   provider: heroku
   api_key:

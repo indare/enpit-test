@@ -5,6 +5,7 @@ source 'https://rubygems.org'
 source 'https://rails-assets.org'
 
 gem 'rails'
+gem 'travis'
 
 # Assets
 gem 'sass-rails'

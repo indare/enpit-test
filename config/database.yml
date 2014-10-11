@@ -53,5 +53,5 @@ test:
 production:
   <<: *default
   database: enpit-test_production
-  username: enpit-test
+  username: bd4151e5a247ce
   password: <%= ENV['ENPIT-TEST_DATABASE_PASSWORD'] %>

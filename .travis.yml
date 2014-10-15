@@ -15,4 +15,3 @@ deploy:
 git:
   submodules: false
 cache: bundler
-

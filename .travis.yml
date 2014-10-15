@@ -11,7 +11,6 @@ deploy:
   run:
     - "rake db:migrate"
     - restart
-    - "rake cleanup"
 git:
   submodules: false
 cache: bundler

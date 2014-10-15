@@ -14,3 +14,4 @@ deploy:
 git:
   submodules: false
 cache: bundler
+bundler_args: --without production
